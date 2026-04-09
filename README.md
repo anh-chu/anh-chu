@@ -13,45 +13,33 @@ Outside of work: building tools that solve problems I kept waiting for someone e
 
 ### Built from scratch
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      <a href="https://github.com/anh-chu/tcb-actual-playwright">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=github_dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=default&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=default&hide_border=true" width="400" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anh-chu/tcb-actual-playwright"><b>tcb-actual-playwright</b></a><br/>
+      Playwright scripts that scrape Techcombank and sync transactions into Actual Budget<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/last-commit/anh-chu/tcb-actual-playwright?style=flat&color=555" />
     </td>
-    <td>
-      <a href="https://github.com/anh-chu/raycast-google-contacts">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=github_dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=default&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=default&hide_border=true" width="400" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anh-chu/raycast-google-contacts"><b>raycast-google-contacts</b></a><br/>
+      Google Contacts extension for Raycast — search and open contacts without leaving the keyboard<br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/anh-chu/raycast-google-contacts?style=flat&color=555" />
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/anh-chu/playnite-library-watcher-json-export">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=github_dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=default&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=default&hide_border=true" width="400" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anh-chu/playnite-library-watcher-json-export"><b>playnite-library-watcher</b></a><br/>
+      Exports your Playnite game library to JSON on every change — useful for dashboards and automations<br/><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/github/last-commit/anh-chu/playnite-library-watcher-json-export?style=flat&color=555" />
     </td>
-    <td>
-      <a href="https://github.com/anh-chu/cider-remote">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=github_dark&hide_border=true">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=default&hide_border=true">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=default&hide_border=true" width="400" />
-        </picture>
-      </a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/anh-chu/cider-remote"><b>cider-remote</b></a><br/>
+      Remote listen-together for the Cider Apple Music client<br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/last-commit/anh-chu/cider-remote?style=flat&color=555" />
     </td>
   </tr>
 </table>
@@ -92,8 +80,6 @@ Getting software to do the repetitive parts so I can focus on decisions
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anh-chu&show_icons=true&theme=github_dark&hide_border=true&hide=contribs&rank_icon=github)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anh-chu&theme=github-compact&hide_border=true&area=true)
 
