@@ -14,19 +14,16 @@ Outside of work: building tools that solve problems I kept waiting for someone e
 ### Built from scratch
 
 <a href="https://github.com/anh-chu/actual-tcb-sync">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=actual-tcb-sync&theme=github_dark&hide_border=true" />
+  <img src="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname" />
 </a>
 <a href="https://github.com/anh-chu/raycast-google-contacts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=github_dark&hide_border=true" />
+  <img src="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname" />
 </a>
-
-<br /><br />
-
 <a href="https://github.com/anh-chu/playnite-library-watcher-json-export">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=github_dark&hide_border=true" />
+  <img src="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname" />
 </a>
 <a href="https://github.com/anh-chu/cider-remote">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=github_dark&hide_border=true" />
+  <img src="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname" />
 </a>
 
 ---
@@ -40,6 +37,17 @@ Active in the AI agent tooling ecosystem:
 | [cc-autopilot](https://github.com/anh-chu/cc-autopilot) | Task management for the agentic era; building features on top |
 | [claude-code-history-viewer](https://github.com/jhlee0409/claude-code-history-viewer) | Contributing features to the multi-AI history viewer |
 | [guppi](https://github.com/ekristen/guppi) | Patches to the tmux + AI agent monitoring dashboard |
+
+---
+
+### Interests
+
+Personal finance automation · Local-first tools · AI agents and orchestration ·
+Getting software to do the repetitive parts so I can focus on decisions
+
+---
+
+> Most of what I build starts as "this doesn't exist and I need it."
 
 ---
 
