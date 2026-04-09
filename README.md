@@ -13,18 +13,44 @@ Outside of work: building tools that solve problems I kept waiting for someone e
 
 ### Built from scratch
 
-<a href="https://github.com/anh-chu/actual-tcb-sync">
-  <img src="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname" />
-</a>
-<a href="https://github.com/anh-chu/raycast-google-contacts">
-  <img src="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname" />
-</a>
-<a href="https://github.com/anh-chu/playnite-library-watcher-json-export">
-  <img src="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname" />
-</a>
-<a href="https://github.com/anh-chu/cider-remote">
-  <img src="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anh-chu/actual-tcb-sync">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname=1&theme=dark">
+          <img src="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname=1" width="400" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anh-chu/raycast-google-contacts">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname=1&theme=dark">
+          <img src="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname=1" width="400" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/anh-chu/playnite-library-watcher-json-export">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname=1&theme=dark">
+          <img src="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname=1" width="400" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anh-chu/cider-remote">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname=1&theme=dark">
+          <img src="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname=1" width="400" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
