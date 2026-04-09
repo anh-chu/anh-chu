@@ -16,18 +16,20 @@ Outside of work: building tools that solve problems I kept waiting for someone e
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anh-chu/actual-tcb-sync">
+      <a href="https://github.com/anh-chu/tcb-actual-playwright">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname=1&theme=dark">
-          <img src="https://gh-card.dev/repos/anh-chu/actual-tcb-sync.svg?fullname=1" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=github_dark&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=default&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=tcb-actual-playwright&theme=default&hide_border=true" width="400" />
         </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/anh-chu/raycast-google-contacts">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname=1&theme=dark">
-          <img src="https://gh-card.dev/repos/anh-chu/raycast-google-contacts.svg?fullname=1" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=github_dark&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=default&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=raycast-google-contacts&theme=default&hide_border=true" width="400" />
         </picture>
       </a>
     </td>
@@ -36,16 +38,18 @@ Outside of work: building tools that solve problems I kept waiting for someone e
     <td>
       <a href="https://github.com/anh-chu/playnite-library-watcher-json-export">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname=1&theme=dark">
-          <img src="https://gh-card.dev/repos/anh-chu/playnite-library-watcher-json-export.svg?fullname=1" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=github_dark&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=default&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=playnite-library-watcher-json-export&theme=default&hide_border=true" width="400" />
         </picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/anh-chu/cider-remote">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname=1&theme=dark">
-          <img src="https://gh-card.dev/repos/anh-chu/cider-remote.svg?fullname=1" width="400" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=github_dark&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=default&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=anh-chu&repo=cider-remote&theme=default&hide_border=true" width="400" />
         </picture>
       </a>
     </td>
